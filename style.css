@@ -1,0 +1,42 @@
+#body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#body_background2
+{
+    background-image:url(bground.gif);
+    background-position:center;
+    background-size:cover;
+}
+#body_background3
+{
+    background-image:url("https://cdn.dribbble.com/users/1410984/screenshots/3176480/_______________________________.gif");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: darkviolet;
+}
+
+#myCanvas2
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: yellow;
+}
+
+#myCanvas3
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: red;
+}
+
